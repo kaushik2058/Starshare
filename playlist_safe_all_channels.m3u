@@ -1,67 +1,7 @@
-<!DOCTYPE html>
-<html>
-</head>
-<body>
-<script>
-window.location.href = "https://t.me/allinone_reborn";
-</script>
-</html>
-<noscript>
-</noscript>
 
-░█████╗░██╗░░░░░██╗░░░░░  ██╗███╗░░██╗  ░█████╗░███╗░░██╗███████╗
-██╔══██╗██║░░░░░██║░░░░░  ██║████╗░██║  ██╔══██╗████╗░██║██╔════╝
-███████║██║░░░░░██║░░░░░  ██║██╔██╗██║  ██║░░██║██╔██╗██║█████╗░░
-██╔══██║██║░░░░░██║░░░░░  ██║██║╚████║  ██║░░██║██║╚████║██╔══╝░░
-██║░░██║███████╗███████╗  ██║██║░╚███║  ╚█████╔╝██║░╚███║███████╗
-╚═╝░░╚═╝╚══════╝╚══════╝  ╚═╝╚═╝░░╚══╝  ░╚════╝░╚═╝░░╚══╝╚══════╝
-
-██████╗░███████╗██████╗░░█████╗░██████╗░███╗░░██╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗████╗░██║
-██████╔╝█████╗░░██████╦╝██║░░██║██████╔╝██╔██╗██║
-██╔══██╗██╔══╝░░██╔══██╗██║░░██║██╔══██╗██║╚████║
-██║░░██║███████╗██████╦╝╚█████╔╝██║░░██║██║░╚███║
-╚═╝░░╚═╝╚══════╝╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚══╝
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" group-title="All Channels" group-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ,t.me/allinonereborn
-https://embed-cloudfront.wistia.com/deliveries/c6a8040a3c022d3e8ae20bf5fb8d140346553b56.m3u8
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
-#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="171" tvg-name="PB: PTC PUNJABI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="All Channels",PB: PTC PUNJABI
-https://allinonereborn.live/star1.m3u8?id=171
-#EXTINF:-1 tvg-id="1856" tvg-name="CRI: FOX CRICKET 501" tvg-logo="https://i.ibb.co/KhcPH6m/download-46.png" group-title="All Channels",CRI: FOX CRICKET 501
-https://allinonereborn.live/star1.m3u8?id=1856
-#EXTINF:-1 tvg-id="2496" tvg-name="CRI: SUPER SPORTS (CRICKET)" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="All Channels",CRI: SUPER SPORTS (CRICKET)
-https://allinonereborn.live/star1.m3u8?id=2496
-#EXTINF:-1 tvg-id="12" tvg-name="CRI: SKY SPORTS CRICKET" tvg-logo="https://h.top4top.io/p_247357nqz1.png" group-title="All Channels",CRI: SKY SPORTS CRICKET
-https://allinonereborn.live/star1.m3u8?id=12
-#EXTINF:-1 tvg-id="2494" tvg-name="CRI:ASTRO CRICKET HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="All Channels",CRI:ASTRO CRICKET HD
-https://allinonereborn.live/star1.m3u8?id=2494
-#EXTINF:-1 tvg-id="215" tvg-name="CRI: WILLOW CRICKET" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="All Channels",CRI: WILLOW CRICKET
-https://allinonereborn.live/star1.m3u8?id=215
-#EXTINF:-1 tvg-id="23943" tvg-name="CRI: WILLOW CRICKET." tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="All Channels",CRI: WILLOW CRICKET.
-https://allinonereborn.live/star1.m3u8?id=23943
-#EXTINF:-1 tvg-id="5040" tvg-name="CRI: WILLOW CRICKET XTRA" tvg-logo="http://stariptv.fun/logos/willowxtra.png" group-title="All Channels",CRI: WILLOW CRICKET XTRA
-https://allinonereborn.live/star1.m3u8?id=5040
-#EXTINF:-1 tvg-id="148090" tvg-name="CRI: TNT Sports 3 FHD" tvg-logo="http://stariptv.fun/logos/btsport3hd.png" group-title="All Channels",CRI: TNT Sports 3 FHD
-https://allinonereborn.live/star1.m3u8?id=148090
-#EXTINF:-1 tvg-id="89" tvg-name="CRI: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="All Channels",CRI: PTV SPORTS
-https://allinonereborn.live/star1.m3u8?id=89
-#EXTINF:-1 tvg-id="43444" tvg-name="CRI: A Sports ARY" tvg-logo="http://stariptv.fun/logos/asportshd.png" group-title="All Channels",CRI: A Sports ARY
-https://allinonereborn.live/star1.m3u8?id=43444
-#EXTINF:-1 tvg-id="101" tvg-name="CRI: GEO SUPER" tvg-logo="http://logo.5gtv.online/logo/geosuper.png" group-title="All Channels",CRI: GEO SUPER
-https://allinonereborn.live/star1.m3u8?id=101
-#EXTINF:-1 tvg-id="98" tvg-name="CRI: TEN SPORTS" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png" group-title="All Channels",CRI: TEN SPORTS
-https://allinonereborn.live/star1.m3u8?id=98
-#EXTINF:-1 tvg-id="196594" tvg-name="CRI: TEN CRICKET (FHD)" tvg-logo="http://stariptv.fun/logos/TenCricket.png" group-title="All Channels",CRI: TEN CRICKET (FHD)
-https://allinonereborn.live/star1.m3u8?id=196594
-#EXTINF:-1 tvg-id="9886" tvg-name="CRI: TEN CRICKET" tvg-logo="http://stariptv.fun/logos/TenCricket.png" group-title="All Channels",CRI: TEN CRICKET
-https://allinonereborn.live/star1.m3u8?id=9886
 #EXTINF:-1 tvg-id="148" tvg-name="CRI: STAR SPORT 1 HD" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="All Channels",CRI: STAR SPORT 1 HD
 https://allinonereborn.live/star1.m3u8?id=148
 #EXTINF:-1 tvg-id="9397" tvg-name="CRI: Star Sport-1  (FHD)" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="All Channels",CRI: Star Sport-1  (FHD)
@@ -112,6 +52,37 @@ https://allinonereborn.live/star1.m3u8?id=9969
 https://allinonereborn.live/star1.m3u8?id=5916
 #EXTINF:-1 tvg-id="157" tvg-name="TM: STAR VIJAY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" group-title="All Channels",TM: STAR VIJAY HD
 https://allinonereborn.live/star1.m3u8?id=157
+#EXTINF:-1 tvg-id="171" tvg-name="PB: PTC PUNJABI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="All Channels",PB: PTC PUNJABI
+https://allinonereborn.live/star1.m3u8?id=171
+#EXTINF:-1 tvg-id="1856" tvg-name="CRI: FOX CRICKET 501" tvg-logo="https://i.ibb.co/KhcPH6m/download-46.png" group-title="All Channels",CRI: FOX CRICKET 501
+https://allinonereborn.live/star1.m3u8?id=1856
+#EXTINF:-1 tvg-id="2496" tvg-name="CRI: SUPER SPORTS (CRICKET)" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="All Channels",CRI: SUPER SPORTS (CRICKET)
+https://allinonereborn.live/star1.m3u8?id=2496
+#EXTINF:-1 tvg-id="12" tvg-name="CRI: SKY SPORTS CRICKET" tvg-logo="https://h.top4top.io/p_247357nqz1.png" group-title="All Channels",CRI: SKY SPORTS CRICKET
+https://allinonereborn.live/star1.m3u8?id=12
+#EXTINF:-1 tvg-id="2494" tvg-name="CRI:ASTRO CRICKET HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="All Channels",CRI:ASTRO CRICKET HD
+https://allinonereborn.live/star1.m3u8?id=2494
+#EXTINF:-1 tvg-id="215" tvg-name="CRI: WILLOW CRICKET" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="All Channels",CRI: WILLOW CRICKET
+https://allinonereborn.live/star1.m3u8?id=215
+#EXTINF:-1 tvg-id="23943" tvg-name="CRI: WILLOW CRICKET." tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="All Channels",CRI: WILLOW CRICKET.
+https://allinonereborn.live/star1.m3u8?id=23943
+#EXTINF:-1 tvg-id="5040" tvg-name="CRI: WILLOW CRICKET XTRA" tvg-logo="http://stariptv.fun/logos/willowxtra.png" group-title="All Channels",CRI: WILLOW CRICKET XTRA
+https://allinonereborn.live/star1.m3u8?id=5040
+#EXTINF:-1 tvg-id="148090" tvg-name="CRI: TNT Sports 3 FHD" tvg-logo="http://stariptv.fun/logos/btsport3hd.png" group-title="All Channels",CRI: TNT Sports 3 FHD
+https://allinonereborn.live/star1.m3u8?id=148090
+#EXTINF:-1 tvg-id="89" tvg-name="CRI: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="All Channels",CRI: PTV SPORTS
+https://allinonereborn.live/star1.m3u8?id=89
+#EXTINF:-1 tvg-id="43444" tvg-name="CRI: A Sports ARY" tvg-logo="http://stariptv.fun/logos/asportshd.png" group-title="All Channels",CRI: A Sports ARY
+https://allinonereborn.live/star1.m3u8?id=43444
+#EXTINF:-1 tvg-id="101" tvg-name="CRI: GEO SUPER" tvg-logo="http://logo.5gtv.online/logo/geosuper.png" group-title="All Channels",CRI: GEO SUPER
+https://allinonereborn.live/star1.m3u8?id=101
+#EXTINF:-1 tvg-id="98" tvg-name="CRI: TEN SPORTS" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png" group-title="All Channels",CRI: TEN SPORTS
+https://allinonereborn.live/star1.m3u8?id=98
+#EXTINF:-1 tvg-id="196594" tvg-name="CRI: TEN CRICKET (FHD)" tvg-logo="http://stariptv.fun/logos/TenCricket.png" group-title="All Channels",CRI: TEN CRICKET (FHD)
+https://allinonereborn.live/star1.m3u8?id=196594
+#EXTINF:-1 tvg-id="9886" tvg-name="CRI: TEN CRICKET" tvg-logo="http://stariptv.fun/logos/TenCricket.png" group-title="All Channels",CRI: TEN CRICKET
+https://allinonereborn.live/star1.m3u8?id=9886
+
 #EXTINF:-1 tvg-id="1634" tvg-name="TM: VIJAY TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" group-title="All Channels",TM: VIJAY TV HD
 https://allinonereborn.live/star1.m3u8?id=1634
 #EXTINF:-1 tvg-id="5915" tvg-name="TM: STAR VIJAY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" group-title="All Channels",TM: STAR VIJAY HD
